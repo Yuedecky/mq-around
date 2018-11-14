@@ -1,5 +1,7 @@
 package com.broad.mq;
 
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 /**
  * Hello world!
  *
