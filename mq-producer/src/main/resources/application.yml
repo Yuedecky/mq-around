@@ -1,0 +1,6 @@
+spring:
+  activemq:
+    producer:
+      broker-url: tcp://localhost:61616
+      userName: puser
+      password: puser123

@@ -1,0 +1,6 @@
+spring:
+  activemq:
+    consumer:
+      broker-url: tcp://localhost:61616
+      userName: cuser
+      password: cuser123
